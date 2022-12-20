@@ -13,7 +13,7 @@ undergone by all Sorting Algorithm.
 1. **Selection Sort Algorithm**
 1. **Shell Sort Algorithm**
 
->Project Output Screenshots
+>## Sorting Visualization Screens
 
 ---
 
@@ -23,11 +23,6 @@ undergone by all Sorting Algorithm.
 ![Screenshot (185)](https://user-images.githubusercontent.com/46816394/101797512-26c75a00-3b30-11eb-958f-47c3b1487aae.png)
 ![Screenshot (186)](https://user-images.githubusercontent.com/46816394/101797524-29c24a80-3b30-11eb-9021-2e054662511e.png)
 
-***
-## How i did this project
-
-With the help of YouTube and Github
-
-**T H A N K - Y O U**
+**Thank you for visiting us**
 
 ***
